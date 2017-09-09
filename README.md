@@ -1,1 +1,1 @@
-# 42 Graphic Project - RT (mark = 59)
+# 42 Graphic Project - RT (note = 59)
